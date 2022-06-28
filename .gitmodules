@@ -1,3 +1,6 @@
 [submodule "tredis"]
 	path = tredis
 	url = https://github.com/uchenily/tredis
+[submodule "rvemu"]
+	path = rvemu
+	url = https://github.com/uchenily/rvemu
