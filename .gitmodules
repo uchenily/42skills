@@ -1,0 +1,3 @@
+[submodule "tredis"]
+	path = tredis
+	url = https://github.com/uchenily/tredis
